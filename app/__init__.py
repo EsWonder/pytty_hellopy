@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return "¡Hola Mundo desde EC2 con Flask!"
+    return "¡Hola Mundo desde EC2 con Flask Distribuida!"
