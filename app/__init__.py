@@ -51,8 +51,8 @@ def index():
     </head>
     <body>
         <div class="container">
-            <h1>¡Hola Mundo!</h1>
-            <p>Desde EC2 con Flask Distribuida</p>
+            <h1>¡Hello world!</h1>
+            <p>From EC2 with Flask Distributed</p>
         </div>
     </body>
     </html>
